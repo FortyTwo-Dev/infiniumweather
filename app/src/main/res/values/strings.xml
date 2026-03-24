@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">InfiniumWeather</string>
     <string name="un_soleil">Un soleil</string>
+    <string name="search">Search</string>
+    <string name="default_text">Default_Text</string>
+    <string name="my_favorites">My Favorites</string>
 </resources>
