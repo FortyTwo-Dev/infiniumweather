@@ -12,8 +12,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="84dp"
+        android:layout_height="84dp"
         android:contentDescription="@string/un_soleil"
         app:srcCompat="@drawable/sun_duotone" />
 </LinearLayout>
