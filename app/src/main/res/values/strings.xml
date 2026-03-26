@@ -4,4 +4,6 @@
     <string name="search">Search</string>
     <string name="default_text">Default_Text</string>
     <string name="my_favorites">My Favorites</string>
+    <string name="search_a_city">Search a city</string>
+    <string name="select_a_city">Select a city</string>
 </resources>

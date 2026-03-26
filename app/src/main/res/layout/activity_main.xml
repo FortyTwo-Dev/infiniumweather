@@ -6,12 +6,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@color/black"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingStart="24dp"
+        android:textColor="@color/white"
         android:layout_marginBottom="24dp"
         android:text="@string/my_favorites"
         android:textSize="42sp" />
@@ -28,5 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="12dp"
+        android:background="@color/primary"
+        android:textColor="@color/black"
         android:text="@string/search"/>
 </LinearLayout>
